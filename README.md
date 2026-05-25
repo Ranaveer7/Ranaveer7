@@ -1,64 +1,63 @@
 # Hi, I'm Ranaveer Reddy! 👋
 ### Associate Java Developer | Tech Enthusiast & Fresher
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>I am a passionate and detail-oriented Computer Science graduate looking to kickstart my career as a <b>Java Developer</b>. I love building robust backend systems, optimizing database queries, and solving complex algorithmic puzzles.</p>
-      <ul>
-        <li>🎓 <b>Education:</b> Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology</li>
-        <li>📧 <b>Email:</b> <a href="mailto:vtu24807@veltech.edu.in">vtu24807@veltech.edu.in</a></li>
-        <li>💼 <b>Looking for:</b> Software Engineer / Java Developer Internships & Entry-level roles</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ranaveer7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="Ranaveer's GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ranaveer7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ranaveer's GitHub Stats" width="400"/>
+
+I am a passionate and detail-oriented computer science graduate looking to kickstart my career as a Java Developer. I love building robust backend systems, solving algorithmic puzzles, and working on full-stack applications.
+
+- 🎓 **Education:** Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+- 📧 **Email:** vtu24807@veltech.edu.in
+- 💼 **Looking for:** Software Engineer / Java Developer Internships & Entry-level roles
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-
-### 🖥️ Backend & Database
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-### ☁️ Cloud & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloud_Computing-004088?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 📊 Analytics & Coding Activity
+## 📊 Analytics & GitHub Trophies
 
-### ⚡ Git Activity Wave
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranaveer7&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+### 🏆 My GitHub Trophies
+🏆 This dynamic section will showcase your achievements as you commit code!
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=Ranaveer7&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ⚡ Top Languages & Repo Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaveer7&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranaveer7&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
-### 🏆 GitHub Trophies & Language Metrics
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ranaveer7&theme=tokyonight&margin-w=15&margin-h=15&all_commits=true" alt="github-trophy" />
-  </a>
-</p>
+---
 
-<p align="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaveer7&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranaveer7&theme=tokyonight" alt="GitHub Streak" height="165" />
-</p>
+## 📂 Highlighted Projects
+
+### 🏫 [CampusEvents](https://github.com/Ranaveer7/campusevents)
+> An application designed to manage and organize campus events efficiently.
+- **Technologies:** TypeScript, Node.js, Frontend Frameworks.
+- **Key Feature:** Streamlines event registration and schedule tracking for student bodies.
+
+### ☕ [Full-Stack Development & Placement Training](https://github.com/Ranaveer7/full-stack-development)
+> A comprehensive collection of my programming journey, full-stack architectures, and core Java concepts.
+- **Technologies:** Java, Object-Oriented Programming (OOP), Data Structures & Algorithms.
+- **Key Feature:** Contains curated code snippets and projects geared towards solving enterprise-level problems.
+
+---
+
+🤝 **Let's Connect!** Feel free to star my repositories if you find them helpful!
