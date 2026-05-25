@@ -1,7 +1,7 @@
 # Hi, I'm Ranaveer Reddy! 👋
 ### Associate Java Developer | Tech Enthusiast & Fresher
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ranaveer7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ranaveer's GitHub Stats" width="400"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ranaveer7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Ranaveer's GitHub Stats" width="400"/>
 
 I am a passionate and detail-oriented computer science graduate looking to kickstart my career as a Java Developer. I love building robust backend systems, solving algorithmic puzzles, and working on full-stack applications.
 
@@ -19,11 +19,23 @@ I am a passionate and detail-oriented computer science graduate looking to kicks
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="cloud computing (aws)" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -34,13 +46,18 @@ I am a passionate and detail-oriented computer science graduate looking to kicks
 
 ## 📊 Analytics & GitHub Trophies
 
+### ⚡ Git Activity Wave
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranaveer7&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
 ### 🏆 My GitHub Trophies
 🏆 This dynamic section will showcase your achievements as you commit code!
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=Ranaveer7&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=Ranaveer7&theme=tokyonight&margin-w=15&margin-h=15&all_commits=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ⚡ Top Languages & Repo Metrics
+### 📈 Top Languages & Repo Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaveer7&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaveer7&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranaveer7&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
